@@ -1,0 +1,75 @@
+body{
+   background: rgb(51,181,189);
+    background-image: linear-gradient(to right top, #28afd4, #2d95bc, #307ca3, #306589, #2d4e6f, #2c4971, #2f4471, #343e71, #4c448a, #6c47a0, #9145b0, #ba3dbb);
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    height: 39rem;
+}
+
+.hero-title{
+    padding-top: 4rem;
+}
+
+.buttons{
+    height: 3rem;
+    width: 30rem;
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.shop{
+    border-radius: 1rem;
+    background-color: #ff5400;
+    color: white;
+    border-color: #ff5400;
+    box-shadow: #ff5400;
+    width: 10rem;
+}
+
+.add{
+    border-radius: 1rem;
+    color: #ffff;
+    margin-left: 3.5rem;
+    border-color: #ff5400;
+    box-shadow: #ff5400;
+    background-color:#4F79A9;
+    width: 10rem;
+    opacity: 1.5;
+}
+
+.row{
+    display: flex;
+}
+
+.nav{
+    margin-left: 29rem;
+    padding-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-img{
+    height: 2px;
+    width: 3px;
+
+}
+
+.login{
+     background-color: #ff5400;
+    color: white;
+    height: 3rem;
+    width: 5rem;
+    border-radius: 1rem;
+    border-color: #ff5400;
+}
+
+.img{
+    height: 20rem;
+    width: 30rem;
+}
+
+.logo{
+    height: 0.5rem;
+    width: 35rem;
+}
+
